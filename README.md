@@ -14,10 +14,10 @@
 
 Build out python project scaffold:
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/dennpsec/python_devops/blob/main/Makefile)
+* [requirements.txt](https://github.com/dennpsec/python_devops/blob/main/requirements.txt)
+* [test_library.py](https://github.com/dennpsec/python_devops/blob/main/test_devopslib.py)
+* [python_library](https://github.com/dennpsec/python_devops/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
